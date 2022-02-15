@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_description" label="Description" language="en" table="u_mail_block">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <help/>
+            <hint/>
+            <label>Description</label>
+            <language>en</language>
+            <name>u_mail_block</name>
+            <plural>Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2014-04-07 11:59:43</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>1276b89e6cb465000ff5847661b85dff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Description</sys_name>
+            <sys_package display_value="MailBlocks" source="9a3ac9738f331100be29a29894e79add">9a3ac9738f331100be29a29894e79add</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="MailBlocks">9a3ac9738f331100be29a29894e79add</sys_scope>
+            <sys_update_name>sys_documentation_u_mail_block_u_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2014-04-07 11:59:43</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

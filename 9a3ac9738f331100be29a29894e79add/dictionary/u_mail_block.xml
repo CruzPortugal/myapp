@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Mail Blocks" max_length="40" name="u_mail_block" sizeclass="2" type="collection">
+        <element label="Active" max_length="40" name="u_active" type="boolean"/>
+        <element label="Description" max_length="100" name="u_description" type="string"/>
+        <element label="HTML" max_length="8000" name="u_html" type="html"/>
+        <element display="true" label="Name" max_length="40" name="u_name" type="string"/>
+    </element>
+</database>
